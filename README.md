@@ -15,4 +15,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0627-swap-sex-of-employees](https://github.com/saksh2k05/LeetCode-Questions/tree/master/0627-swap-sex-of-employees) |
 | [1148-article-views-i](https://github.com/saksh2k05/LeetCode-Questions/tree/master/1148-article-views-i) |
 | [1757-recyclable-and-low-fat-products](https://github.com/saksh2k05/LeetCode-Questions/tree/master/1757-recyclable-and-low-fat-products) |
+## Math
+|  |
+| ------- |
+| [1017-convert-to-base-2](https://github.com/saksh2k05/LeetCode-Questions/tree/master/1017-convert-to-base-2) |
 <!---LeetCode Topics End-->
